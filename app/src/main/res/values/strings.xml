@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Digis Square</string>
+    <string name="rsrp">RSRP</string>
+    <string name="rsrq">RSRQ</string>
+    <string name="snr">SNR</string>
+
+
+</resources>
